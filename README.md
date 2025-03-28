@@ -1,3 +1,3 @@
 # git101
-understanding git
+hi im krishna
 
