@@ -1,2 +1,3 @@
 # git101
-learning git 
+understanding git
+
